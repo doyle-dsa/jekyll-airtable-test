@@ -2,6 +2,7 @@
 layout: page
 ---
 
-# This website is the shizz
+# Are you a tenant or an organizer:
 
-SEE?!
+[Tenant](http://www.google.com){: .btn}  [Organizer](http://www.google.com){: .btn}
+
